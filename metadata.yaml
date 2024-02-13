@@ -1,0 +1,38 @@
+_repo: L-homme-couvert-de-femmes_72808
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drieu La Rochelle, Pierre
+    aliases:
+    - La Rochelle, Pierre Drieu
+    - Rochelle, Pierre Drieu La
+    birthdate: 1893
+    deathdate: 1945
+    gutenberg_agent_id: '56815'
+    url: http://www.gutenberg.org/2009/agents/56815
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Pierre_Drieu_La_Rochelle
+    - https://fr.wikipedia.org/wiki/Pierre_Drieu_la_Rochelle
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72808'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k80896p
+pgterms:marc905: 20230409095917drieularoc
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bGallimard, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: L'homme couvert de femmes
+url: http://www.gutenberg.org/ebooks/72808
