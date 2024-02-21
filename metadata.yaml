@@ -1,5 +1,8 @@
 _repo: L-homme-couvert-de-femmes_72808
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72808-h/images/cover.jpg
 creator:
   author:
     agent_name: Drieu La Rochelle, Pierre
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Pierre_Drieu_La_Rochelle
     - https://fr.wikipedia.org/wiki/Pierre_Drieu_la_Rochelle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72808#L-homme-couvert-de-femmes
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
